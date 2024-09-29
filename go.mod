@@ -1,3 +1,3 @@
-module github.com/zlgb/topsdk
+module topsdk
 
-go 1.22
+go 1.16
